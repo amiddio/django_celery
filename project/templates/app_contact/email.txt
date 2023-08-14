@@ -1,0 +1,2 @@
+{{ data.name }} [{{ data.email }}] sent message:
+{{ data.message }}
